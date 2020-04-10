@@ -1,0 +1,9 @@
+[submodule "app/external/alib-math"]
+	path = app/external/alib-math
+	url = git@repo.thebatforge.com:abraidwood/alib-math.git
+[submodule "app/external/stb"]
+	path = app/external/stb
+	url = https://github.com/nothings/stb
+[submodule "app/external/alib-util"]
+	path = app/external/alib-util
+	url = git@repo.thebatforge.com:abraidwood/alib-util.git
